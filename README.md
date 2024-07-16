@@ -23,7 +23,7 @@ we support pure python, pytorch, and jittor, the default is python-cpu
 --backend [python-cpu, pytorch-cpu, pytorch-gpu, jittor-cpu, jittor-gpu]
 ```
 ## Large-Scale Assessment for various datasets (updating)
-See [this pdf file](https://github.com/frazerlin/SAQ/benchmark.pdf)
+See [this pdf file](https://github.com/frazerlin/SAQ/blob/main/benchmark.pdf)
 
 ## Contact
 If you have any questions, feel free to contact me via: `frazer.linzheng(at)gmail.com`.  
